@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m34315956
+- 👋 Hi, I’m @M
 - 👀 I’m interested in UI/UX, Backend development, AI development and cybersecurity.
 - 🌱 I’m currently learning UI/UX and Backend development.
 - 💞️ I’m looking to collaborate on any Logo design and/or UI/UX design project.
